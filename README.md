@@ -33,8 +33,8 @@ Before running this project, make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/simple-ecommerce-dashboard.git
-   cd simple-ecommerce-dashboard
+   git clone git@github.com:dimasardanapp/simple-ecommerce.git
+   cd simple-ecommerce
    ```
 
 2. **Install dependencies**
